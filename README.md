@@ -1,22 +1,22 @@
-### Hi there 👋
+**`Megs Laberge`**
 
-<!--
-**Probablymegs/probablymegs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I'm Megs, a caffeinated student navigating the intricate maze of software development. 
 
-Here are some ideas to get you started:
+### Languages and Tools
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,materialui,nodejs,react)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About Me
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,cs,materialui,nodejs,react" />
-  </a>
-</p>
+- 🎓 Currently juggling between classes and coding marathons.
+
+#### My Tech Stash
+
+```python
+const skills = {
+  languages: ['Python', 'JavaScript', 'C#', 'SQL'],
+  frameworks: ['React', 'Node.js', 'Flask'],
+  tools: ['VS Code', 'Git', 'Docker'],
+  other: ['Caffeine-driven Development', 'Cat-Lover'],
+};
+```
+Let's connect, collaborate, and maybe even share a few laughs over code.
