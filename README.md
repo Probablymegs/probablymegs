@@ -1,22 +1,22 @@
-**`Megs Laberge`**
+**`Meghan Laberge`**
 
-Hi I'm Megs, a caffeinated student navigating the intricate maze of software development. 
+Hi I'm Megs, a highly caffeinated student navigating the intricate maze of software development. <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
-### Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,materialui,nodejs,react)](https://skillicons.dev)
+
+<a href="https://www.linkedin.com/in/meghan-laberge/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:meghanelaberge@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://discordapp.com/users/944021759680720907/"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+
+### My Tech Stash
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,materialui,nodejs,react,python)](https://skillicons.dev)
+<img width="50" src="https://user-images.githubusercontent.com/25181517/121405754-b4f48f80-c95d-11eb-8893-fc325bde617f.png" alt=".NET Core" title=".NET Core"/>
+
 
 #### About Me
 
 - 🎓 Currently juggling between classes and coding marathons.
+- 💻 Passionate about software development and constantly exploring new technologies.
+- 🌐 Interested in contributing to open-source projects and the tech community.
+- 🚀 Striving for continuous learning and improvement in my coding skills.
 
-#### My Tech Stash
-
-```python
-const skills = {
-  languages: ['Python', 'JavaScript', 'C#', 'SQL'],
-  frameworks: ['React', 'Node.js', 'Flask'],
-  tools: ['VS Code', 'Git', 'Docker'],
-  other: ['Caffeine-driven Development', 'Cat-Lover'],
-};
-```
-Let's connect, collaborate, and maybe even share a few laughs over code.
+Thanks for visiting! :blossom:
