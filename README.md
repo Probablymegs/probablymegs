@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cs,materialui,nodejs,react)](https://skillicons.dev)
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,cs,materialui,nodejs,react" />
+  </a>
+</p>
