@@ -14,9 +14,9 @@ Hi I'm Megs, a highly caffeinated student navigating the intricate maze of softw
 
 #### About Me
 
-- 🎓 Currently juggling between classes and coding marathons.
-- 💻 Passionate about software development and constantly exploring new technologies.
-- 🌐 Interested in contributing to open-source projects and the tech community.
-- 🚀 Striving for continuous learning and improvement in my coding skills.
+- :mortar_board: Currently juggling between classes and coding marathons.
+- :computer: Passionate about software development and constantly exploring new technologies.
+- :globe_with_meridians: Interested in contributing to open-source projects and the tech community.
+- :rocket: Striving for continuous learning and improvement in my coding skills.
 
 Thanks for visiting! :blossom:
