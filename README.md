@@ -1,6 +1,6 @@
 **`Meghan Laberge`**
 
-Hi I'm Megs, a highly caffeinated student navigating the intricate maze of software development. <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+Hi I'm Megs, a highly caffeinated human navigating the intricate maze of software development. <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 
 <a href="https://www.linkedin.com/in/meghan-laberge/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -14,9 +14,8 @@ Hi I'm Megs, a highly caffeinated student navigating the intricate maze of softw
 
 #### About Me
 
-- :mortar_board: Currently juggling between classes and coding marathons.
 - :computer: Passionate about software development and constantly exploring new technologies.
-- :globe_with_meridians: Interested in contributing to open-source projects and the tech community.
+- :globe_with_meridians:  I enjoy working with others on open-source projects.
 - :rocket: Striving for continuous learning and improvement in my coding skills.
 
 Thanks for visiting! :blossom:
