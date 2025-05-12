@@ -1,6 +1,6 @@
 **`Meghan Laberge`**
 
-Hi I'm Megs, a highly caffeinated human navigating the intricate maze of software development. <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
+Hi I'm Megs. <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />
 
 
 <a href="https://www.linkedin.com/in/meghan-laberge/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
