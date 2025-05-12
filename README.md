@@ -13,8 +13,6 @@ Hi I'm Megs. <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39
 
 #### About Me
 
-- :computer: Passionate about software development and constantly exploring new technologies.
-- :globe_with_meridians:  I enjoy working with others on open-source projects.
-- :rocket: Striving for continuous learning and improvement in my coding skills.
+- My cats write most of my code
 
 Thanks for visiting! :blossom:
